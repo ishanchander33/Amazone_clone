@@ -1,2 +1,1 @@
-# Amazone_clone
-this is python project which is based on personal expence tracker
+this is the project practice the html & css make Amazone clone
